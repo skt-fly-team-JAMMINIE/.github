@@ -5,35 +5,67 @@
 ![service_process](https://user-images.githubusercontent.com/68270424/229696703-8107e2c3-8608-4a45-8943-f72de572e5c1.png)
 
 
-## "AI 그림분석"과 "AI 챗봇"으로 아동 감성분석을 에이닷에서 쉽고 가볍게 
+## AI 그림분석과 AI 챗봇으로 아동 감성분석을 에이닷에서 쉽고 가볍게!
+
+<br>
 
 <p align="justify">
-프로젝트 개요/동기
-</p>
 
-<p align="center">
-GIF Images
 </p>
 
 <br>
 
-## 기술 스택
+## 🔹 개발 배경 🔹 
+	
+![article](https://user-images.githubusercontent.com/68270424/229714286-12604795-0ec1-49fa-ab4e-36e849f9487b.png){: width="300" height="300"){: .center}
+<p align="center"><img src="https://user-images.githubusercontent.com/68270424/229714286-12604795-0ec1-49fa-ab4e-36e849f9487b.png" height="300px" width="300px"></p>
+
+
+<p align="center">
+현재 아동상담 수요는 지속적으로 증가하고 있고 이에 따라 심리상담센터는 언제나 만석입니다.
+
+비싼 심리검사 비용, 상담센터 접근 어려움 등으로 실생활에 적용하기 어려웠던 아동심리검사에 대한 장벽을 낮추는 서비스를 기획했습니다.
+
+</p>
+
+
+<br>
+
+<p align="justify">
+
+</p>
+
+<br>
+
+
+## 🔹 기술 스택 🔹 
 <div align="left">
-	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Kotlin-E34F26?style=flat&logo=Kotlin&logoColor=white" />
-	<img src="https://img.shields.io/badge/Azure-1572B6?style=flat&logo=Azure&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mysql-E34F26?style=flat&logo=Mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-0CAA41?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kotlin-006272?style=flat&logo=Kotlin&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-FC6D26?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mysql-C9284D?style=flat&logo=Mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-1572B6?style=flat&logo=Git&logoColor=white" />
+	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Android-ED1965?style=flat&logo=Android&logoColor=white" />
+	<img src="https://img.shields.io/badge/FastAPI-31A8FF?style=flat&logo=FastAPI&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pytorch-F01428?style=flat&logo=Pytorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/MicrosoftAzure-FFE005?style=flat&logo=MicrosoftAzure&logoColor=white" />	
+	<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
 </div>
 
 <br>
 
-## 구현 기능
+<p align="justify">
 
-### 1. ![Computer Vision을 통한 아동 HTP 그림 분석](https://github.com/skt-fly-team-JAMMINIE/HTP-Model)
+</p>
 
-### 2. ![ChatBot과 실시간 대화를 통한 감성분석](https://github.com/skt-fly-team-JAMMINIE/Chatbot-Backend)
+<br>
+
+## 🔹 구현 기능 🔹 
+
+### 1. [Computer Vision을 통한 아동 HTP 그림 분석](https://github.com/skt-fly-team-JAMMINIE/HTP-Model)
+
+### 2. [ChatBot과 실시간 대화를 통한 감성분석](https://github.com/skt-fly-team-JAMMINIE/Chatbot-Backend)
 
 ### 3. 맞춤형 콘텐츠 추천으로 테스트 과정을 즐겁게 구성
 
@@ -41,7 +73,6 @@ GIF Images
 
 <br>
 
-## 배운 점 & 아쉬운 점
 
 <p align="justify">
 
@@ -49,13 +80,6 @@ GIF Images
 
 <br>
 
-## 라이센스
+## 🔹 라이센스 🔹 
 
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
+&copy; [TEAM금쪽](mailto:sktflyaiambition4@gmail.com) All rights reserved.
