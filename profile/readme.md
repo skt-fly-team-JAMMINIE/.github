@@ -31,9 +31,9 @@ GIF Images
 
 ## 구현 기능
 
-### 1. Computer Vision을 통한 아동 HTP 그림 분석
+### 1. ![Computer Vision을 통한 아동 HTP 그림 분석](https://github.com/skt-fly-team-JAMMINIE/HTP-Model)
 
-### 2. ChatBot과 실시간 대화를 통한 감성분석
+### 2. ![ChatBot과 실시간 대화를 통한 감성분석](https://github.com/skt-fly-team-JAMMINIE/Chatbot-Backend)
 
 ### 3. 맞춤형 콘텐츠 추천으로 테스트 과정을 즐겁게 구성
 
