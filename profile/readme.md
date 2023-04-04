@@ -17,11 +17,11 @@
 
 ## 🔹 개발 배경 🔹 
 	
-![article](https://user-images.githubusercontent.com/68270424/229714286-12604795-0ec1-49fa-ab4e-36e849f9487b.png){: width="300" height="300"){: .center}
-<p align="center"><img src="https://user-images.githubusercontent.com/68270424/229714286-12604795-0ec1-49fa-ab4e-36e849f9487b.png" height="300px" width="300px"></p>
+![article](https://user-images.githubusercontent.com/68270424/229714286-12604795-0ec1-49fa-ab4e-36e849f9487b.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/68270424/229714286-12604795-0ec1-49fa-ab4e-36e849f9487b.png" height="300px" width="500px"></p>
 
 
-<p align="center">
+<p>
 현재 아동상담 수요는 지속적으로 증가하고 있고 이에 따라 심리상담센터는 언제나 만석입니다.
 
 비싼 심리검사 비용, 상담센터 접근 어려움 등으로 실생활에 적용하기 어려웠던 아동심리검사에 대한 장벽을 낮추는 서비스를 기획했습니다.
