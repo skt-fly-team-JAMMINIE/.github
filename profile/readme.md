@@ -79,7 +79,6 @@
 
 ## 🔹 시연 영상 🔹 
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/68270424/229731104-5b4ac33a-c1b4-4b8c-9c37-f0a814cdff46.gif)
 
 
 
