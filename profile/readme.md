@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HELLO%20WORLD!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=SKT-FLY-AI%202기%20프로젝트%20부문%20✨최우수상✨수상팀%20금쪽이들%20입니다&descAlignY=61&descAlign=50)
 
-##🎨마음을 그리닷🎨
+## 🎨마음을 그리닷🎨
 
 ![service_process](https://user-images.githubusercontent.com/68270424/229696703-8107e2c3-8608-4a45-8943-f72de572e5c1.png)
 
