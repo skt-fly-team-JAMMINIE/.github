@@ -69,8 +69,22 @@
 ### 3. 맞춤형 콘텐츠 추천으로 테스트 과정을 즐겁게 구성
 
 ### 4. 아동의 그림분석 결과, 챗봇과의 대화 내용, 심리분석 결과를 저장하여 편리하게 날짜 별로 꺼내 볼 수 있도록 보고서를 제공
+<br>
+
+<p align="justify">
+
+</p>
 
 <br>
+
+## 🔹 시연 영상 🔹 
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/68270424/229731104-5b4ac33a-c1b4-4b8c-9c37-f0a814cdff46.gif)
+
+
+
+
+
 
 
 <p align="justify">
