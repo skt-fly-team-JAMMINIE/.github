@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
-## SKT-FLY-AI 2기 프로젝트 부문 ✨최우수상✨ 수상팀 금쪽이들 입니다 :) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SKT-FLY-AI 2기 프로젝트 부문 ✨최우수상✨ 수상팀 금쪽이들 입니다 :) &fontSize=90" />
 
 
 ### "AI 그림분석"과 "AI 챗봇"으로 아동 감성분석을 에이닷에서 쉽고 가볍게 🎨마음을 그리닷🎨
