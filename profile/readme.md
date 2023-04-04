@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ## SKT-FLY-AI 2기 프로젝트 부문 ✨최우수상✨ 수상팀 금쪽이들 입니다 :) 
 
 
