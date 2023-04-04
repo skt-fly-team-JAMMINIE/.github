@@ -18,8 +18,6 @@
 ## 🔹 개발 배경 🔹 
 	
 ![article](https://user-images.githubusercontent.com/68270424/229714286-12604795-0ec1-49fa-ab4e-36e849f9487b.png)
-<p align="center"><img src="https://user-images.githubusercontent.com/68270424/229714286-12604795-0ec1-49fa-ab4e-36e849f9487b.png" height="300px" width="500px"></p>
-
 
 <p>
 현재 아동상담 수요는 지속적으로 증가하고 있고 이에 따라 심리상담센터는 언제나 만석입니다.
