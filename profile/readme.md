@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SKT-FLY-AI%202기%20프로젝트부문%20✨최우수상✨%20수상팀%20금쪽이들%20입니다%20:)&fontSize=32" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SKT-FLY-AI%202기%20프로젝트부문%20✨최우수상✨%20수상팀%20금쪽이들%20입니다%20:)&fontSize=24" />
 
 
 ### "AI 그림분석"과 "AI 챗봇"으로 아동 감성분석을 에이닷에서 쉽고 가볍게 🎨마음을 그리닷🎨
