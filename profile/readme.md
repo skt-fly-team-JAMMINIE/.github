@@ -78,8 +78,19 @@
 <br>
 
 ## 🔹 시연 영상 🔹 
+### 1. 아동 HTP 그림 분석
 
 
+https://github.com/skt-fly-team-KKeumZZok/.github/assets/68270424/3a468b81-4f27-4790-8be8-f7f49bc42f25
+
+
+
+### 2. KoGPT2로 챗봇 대화
+
+
+
+
+https://github.com/skt-fly-team-KKeumZZok/.github/assets/68270424/db781b45-f236-4697-a850-36ed65825013
 
 
 
